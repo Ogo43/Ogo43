@@ -48,6 +48,7 @@ Here are a few things I've been working on:
 I’m open to internships, mentorship, collaborations, and learning opportunities. Let’s connect and grow together!
 
 📬 Send me a message on LinkedIn
+
 🐦 Say hi on Twitter
 
 > “Never give up on your dreams and ensure to stretch out to achieve them.”
