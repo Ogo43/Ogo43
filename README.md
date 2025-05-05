@@ -12,8 +12,6 @@
   </a>
 </p>
 
-* 💼 Portfolio: Coming Soon!
-
 ---
 
 ### 🌱 About Me
@@ -42,7 +40,8 @@ Here are a few things I've been working on:
 * 💻 GitHub Profile Revamp Project
 * 🔨 More personal and team projects in progress!
   
-
+* 💼 Portfolio: Coming Soon!
+  
 ---
 
 🤝 Let’s Connect
