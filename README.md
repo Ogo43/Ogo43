@@ -38,17 +38,12 @@ Here are a few things I've been working on:
 
 #### ✅ To-Do List App
 A simple task management tool using HTML, CSS & JavaScript.  
-<a href="https://github.com/Ogo43/todo-list)" target="_blank">
-  </a>
+"https://github.com/Ogo43/todo-list"
 
 #### 🚀 Kuji App
-A creative solution that streamlines <a href="https://github.com/Ogo43/wp-pusher" target="_blank">
-  </a>. 
+A creative solution that streamlines "https://github.com/Ogo43/wp-pusher". 
 
 ---
-
-### 🧰 Technologies & Tools
-HTML • CSS • JavaScript • Git • GitHub • Responsive Design
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ogo43&show_icons=true&theme=default" alt="Ogo43 GitHub stats" /> </p>
@@ -69,5 +64,9 @@ I’m open to internships, mentorship, collaborations, and learning opportunitie
 
 <p align="center"> <i>“Building my path in tech one project at a time — with humility, communication, and collaboration.”</i> </p> 
 
+### 🧰 Technologies & Tools
+
 ```html
+
+HTML • CSS • JavaScript • Git • GitHub • Responsive Design
 
