@@ -47,7 +47,24 @@ A creative solution that streamlines [insert functionality if known]. *(More det
 
 ### 🧰 Technologies & Tools
 
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ogo43&show_icons=true&theme=default" alt="Ogo43 GitHub stats" /> </p>
+📚 Currently Learning
+Advanced JavaScript and asynchronous programming
+
+Git and GitHub workflows
+
+Frontend frameworks (React is on the horizon!)
+
+Problem-solving and clean code practices
+
+🤝 Let’s Connect
+I’m open to internships, mentorship, collaborations, and learning opportunities. Let’s connect and grow together!
+
+📬 Send me a message on LinkedIn
+🐦 Say hi on Twitter
+
+<p align="center"> <i>“Building my path in tech one project at a time — with humility, communication, and collaboration.”</i> </p> 
+
 ```html
 HTML • CSS • JavaScript • Git • GitHub • Responsive Design
-
-
